@@ -1,0 +1,65 @@
+is_global = true
+build_property.StrawberryShake_DefaultNamespace = GraphQLDemo.Client
+build_property.StrawberryShake_LogFile = 
+build_property.StrawberryShake_BuildDirectory = C:\Users\serka\.nuget\packages\strawberryshake.codegeneration.csharp.analyzers\11.3.2\build\..\analyzers\dotnet\cs
+build_property.StrawberryShake_PersistedQueryDirectory = 
+build_property.StrawberryShake_State = obj\\berry
+build_property.StrawberryShake_EmitGeneratedCode = 
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GraphQLDemo.Client
+build_property.ProjectDir = F:\projects\graphql-demo-net\GraphQLDemo\GraphQLDemo.Client\
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Mutations/CreateCourseMutation.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Mutations/DeleteCourseMutation.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Mutations/UpdateCourseMutation.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Queries/CourseByIdQuery.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Queries/CoursesQuery.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Queries/InstructionsQuery.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/schema.extensions.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/schema.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Subscriptions/CourseCreatedSubscription.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Subscriptions/CourseUpdatedSubscription.graphql]
+build_metadata.AdditionalFiles.GraphQL = true
+build_metadata.AdditionalFiles.GraphQLConfig = 
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/.graphqlrc.json]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = true
+
+[F:/projects/graphql-demo-net/GraphQLDemo/GraphQLDemo.Client/Queries/SearchQuery.graphql]
+build_metadata.AdditionalFiles.GraphQL = 
+build_metadata.AdditionalFiles.GraphQLConfig = true
