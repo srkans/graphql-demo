@@ -15,3 +15,5 @@ Advanced Types <br>
 Validation <br>
 Field Middleware <br>
 Deploying via Docker to Azure <br>
+
+Thanks to SingletonSean<br>
